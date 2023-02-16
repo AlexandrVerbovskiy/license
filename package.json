@@ -2,6 +2,11 @@
   "name": "contacts",
   "version": "0.1.0",
   "private": true,
+  "licenses": [{
+    "type":"GNU Lesser General Public License v3, 29 June 2007",
+    "url": "https://github.com/AlexandrVerbovskiy/license/blob/master/LICENSE.md"
+  }],
+  "repository": "github.com/AlexandrVerbovskiy/license",
   "dependencies": {
     "@chainlink/contracts": "^0.4.0",
     "@testing-library/jest-dom": "^5.16.4",
